@@ -20,7 +20,7 @@ I made this project because I thought it was cool and I get to customize it to m
 | 1.8" TFT LCD (ST7735) | Displays what's playing | 1 | $8.18 | [Amazon](https://www.amazon.com/Bewinner-Resolution-Interface-Full-Color-Controller/dp/B083NYBN4Q) |
 | M3 Heat-Set Inserts | Assemble 3D printed case | 4 | $3.91 | [Amazon](https://www.amazon.com/ZWMSSLL-Heat-Set-Threaded-M3x12x5mm-Components/dp/B0DFWXCFZM) |
 | Keyboard Switches | Buttons (play/skip/back) | 3 | — | — |
-| Jumper Wires | Connections | ~10 | — | — |
+| Jumper Wires | Connections | ~10 | https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_1?adgrpid=1337006702926790&dib=eyJ2IjoiMSJ9.mBgqHXLwasLiATpSMg2n2v7TQyQAMpuJe5YqkO-TlORcyPo4MfIeaepfliRD3h6MwMh_UrBRSgTLdsZkYgS4FuZiZP6WSfDIiTamB5kBbYPr2TfFtmZuOslwOPMf0u2a7rAF1M1joniIzsou0pPeUerCR6PvoH1X7i4llBAEoF0BPuBEZu42P-wYOosb0uYIqv3v4rRfyznRW3CWWM_O-OVhcfE5ZRg9KoZNzxISB9s.JjzfxTzYv_zLT6wo13HUcUlL9ZcmlYx33kKPbh4BTHk&dib_tag=se&hvadid=83563324254581&hvbmt=be&hvdev=c&hvlocphy=77603&hvnetw=o&hvqmt=e&hvtargid=kwd-83563261187947%3Aloc-190&hydadcr=7495_13441213&keywords=jumper+wires+amazon&mcid=ef61c7056c1931f88f319ed830802069&msclkid=90897dd7f84d1847026f14340fad9271&qid=1776547810&sr=8-1 | —6.98|
 
 **Total: ~$22**
 
