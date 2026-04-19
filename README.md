@@ -1,3 +1,6 @@
+<img width="973" height="1024" alt="Screenshot 2026-04-18 115237" src="https://github.com/user-attachments/assets/227b108b-c4c7-41e8-9615-c77a178bd183" />
+
+<img width="843" height="572" alt="image" src="https://github.com/user-attachments/assets/b1b66be3-6f89-47b2-821e-d5ede6c96cbf" />
 
 A simple display that shows the song you're currently playing on Spotify. It lets you skip and pause too.
 
