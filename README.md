@@ -44,7 +44,7 @@ Buttons: GPIO2 (prev) · GPIO6 (play/pause) · GPIO7 (next)
 
 3D-printed two-piece enclosure. Screen and ESP32 sit inside the base, lid bolts on with M3 heat-set inserts.
 
-STL files in the `case/` folder.
+STL files in the `cad/` folder.
 
 ## Setup
 
