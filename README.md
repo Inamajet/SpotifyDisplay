@@ -66,3 +66,9 @@ STL files in the `cad/` folder.
 ## Credits
 
 Inspired by the Spotify Car Thing and [Dongathan-Jong/SpotifyDisplay]
+
+
+------------------------------------------------------------------------
+
+
+<img width="1205" height="751" alt="image" src="https://github.com/user-attachments/assets/506daa90-7bd6-4bef-a751-a449f2ace8b7" />
